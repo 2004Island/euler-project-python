@@ -1,4 +1,4 @@
-###EULER 2 Python
+###EULER 2 Even Fibonacci numbers: Python
 ###Varun Sreedharan 07/20/22
 
 fibnums = [0, 1, 2]

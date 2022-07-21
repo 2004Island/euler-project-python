@@ -1,4 +1,4 @@
-###EULER 1 Python
+###EULER 1 Multiples of 3 or 5: Python
 ###Varun Sreedharan 07/20/22
 
 numbers = []
