@@ -1,4 +1,4 @@
-###EULER 2
+###EULER 2 Python
 ###Varun Sreedharan 07/20/22
 
 fibnums = [0, 1, 2]

@@ -1,4 +1,4 @@
-###EULER 1
+###EULER 1 Python
 ###Varun Sreedharan 07/20/22
 
 numbers = []
